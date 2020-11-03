@@ -1,0 +1,6 @@
+com\assessment\audit\AuditApplication.class
+com\assessment\audit\event\AuditEventListener.class
+com\assessment\audit\repository\AuditEventRepository.class
+com\assessment\audit\stream\StreamConfig.class
+com\assessment\audit\stream\AuditStream.class
+com\assessment\audit\model\AuditEvent.class
